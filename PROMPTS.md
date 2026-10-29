@@ -1,0 +1,2 @@
+Prompt usado:
+Tengo una actividad de bash en equipo. Me toco el modulo de validacion de argumentos. El script debe recibir 2 argumentos ($1 = palabra o frase a buscar, $2 = ruta o carpeta a analizar). Debe validar que se hayan recibido exactamente 2 argumentos y, si no, mostrar un mensaje de uso incorrecto y salir. Tambien debe validar que la ruta exista y sea un directorio valido. Ayudame con el codigo y los pasos de git para mi rama. 
